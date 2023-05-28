@@ -1,0 +1,105 @@
+05/28/2023 05:35:41 PM - WebDriverFactory - INFO: ### Selected URL is https://www.google.com/
+05/28/2023 05:35:44 PM - LoginPage - INFO: Element not found with locator: username and  locatorType: id
+05/28/2023 05:35:44 PM - LoginPage - INFO: Cannot send data on the element with locator: username locatorType: id
+05/28/2023 05:35:47 PM - LoginPage - INFO: Element not found with locator: password and  locatorType: id
+05/28/2023 05:35:47 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+05/28/2023 05:35:50 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+05/28/2023 05:35:50 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: id
+05/28/2023 05:35:50 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:35:51 PM - Util - INFO: Wait :: '2' seconds for 
+05/28/2023 05:35:56 PM - LoginPage - INFO: Element not found with locator: Switch to Lightning Experience and  locatorType: link
+05/28/2023 05:35:56 PM - LoginPage - INFO: Element not present with locator: Switch to Lightning Experience locatorType: link
+05/28/2023 05:35:56 PM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+05/28/2023 05:36:03 PM - LoginPage - INFO: Element not appeared on the web page
+05/28/2023 05:36:07 PM - LoginPage - INFO: Element not found with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon and  locatorType: xpath
+05/28/2023 05:36:07 PM - LoginPage - INFO: Element not present with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon locatorType: xpath
+05/28/2023 05:36:07 PM - LoginPage - INFO: Error Dialog is not found... 
+05/28/2023 05:36:10 PM - LoginPage - INFO: Element not found with locator: username and  locatorType: id
+05/28/2023 05:36:10 PM - LoginPage - INFO: Cannot send data on the element with locator: username locatorType: id
+05/28/2023 05:36:13 PM - LoginPage - INFO: Element not found with locator: password and  locatorType: id
+05/28/2023 05:36:13 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+05/28/2023 05:36:16 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+05/28/2023 05:36:16 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: id
+05/28/2023 05:36:16 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:36:17 PM - Util - INFO: Wait :: '2' seconds for 
+05/28/2023 05:36:22 PM - LoginPage - INFO: Element not found with locator: Switch to Lightning Experience and  locatorType: link
+05/28/2023 05:36:22 PM - LoginPage - INFO: Element not present with locator: Switch to Lightning Experience locatorType: link
+05/28/2023 05:36:22 PM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+05/28/2023 05:36:29 PM - LoginPage - INFO: Element not appeared on the web page
+05/28/2023 05:36:32 PM - LoginPage - INFO: Element not found with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon and  locatorType: xpath
+05/28/2023 05:36:32 PM - LoginPage - INFO: Element not present with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon locatorType: xpath
+05/28/2023 05:36:32 PM - LoginPage - INFO: Error Dialog is not found... 
+05/28/2023 05:36:32 PM - Util - INFO: Actual Text From Application Web UI --> :: Google
+05/28/2023 05:36:32 PM - Util - INFO: Expected Text From Application Web UI --> :: Home | Salesforce
+05/28/2023 05:36:32 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+05/28/2023 05:36:32 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:36:33 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside SS ######################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside S1 ######################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside S2 ######################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside S3 ######################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside Try ##################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Inside Mkdir ##################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: SS Taken #####################################################
+05/28/2023 05:36:33 PM - TestStatus - INFO: Screenshot save to directory: D:\Automation_framwork\base\..\screenshots\2023-05-28\test_validLogin_28-05-2023 17_36_33.png
+05/28/2023 05:36:36 PM - LoginPage - INFO: Element not found with locator: uiImage and  locatorType: class
+05/28/2023 05:36:36 PM - LoginPage - INFO: Element not present with locator: uiImage locatorType: class
+05/28/2023 05:36:36 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+05/28/2023 05:36:36 PM - TestStatus - INFO: Inside SS ######################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: Inside S1 ######################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: Inside S2 ######################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: Inside S3 ######################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: Inside Try ##################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: SS Taken #####################################################
+05/28/2023 05:36:36 PM - TestStatus - INFO: Screenshot save to directory: D:\Automation_framwork\base\..\screenshots\2023-05-28\test_validLogin_28-05-2023 17_36_36.png
+05/28/2023 05:36:36 PM - TestStatus - ERROR: test_validLogin  ### TEST FAILED
+05/28/2023 05:37:42 PM - WebDriverFactory - INFO: ### Selected URL is https://www.google.com/
+05/28/2023 05:37:45 PM - LoginPage - INFO: Element not found with locator: username and  locatorType: id
+05/28/2023 05:37:45 PM - LoginPage - INFO: Cannot send data on the element with locator: username locatorType: id
+05/28/2023 05:37:46 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+05/28/2023 05:37:46 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+05/28/2023 05:37:46 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+05/28/2023 05:37:46 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: id
+05/28/2023 05:37:46 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:37:47 PM - Util - INFO: Wait :: '2' seconds for 
+05/28/2023 05:37:49 PM - LoginPage - INFO: Element not found with locator: Switch to Lightning Experience and  locatorType: link
+05/28/2023 05:37:49 PM - LoginPage - INFO: Element not present with locator: Switch to Lightning Experience locatorType: link
+05/28/2023 05:37:49 PM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+05/28/2023 05:37:49 PM - LoginPage - INFO: Element not appeared on the web page
+05/28/2023 05:37:50 PM - LoginPage - INFO: Element not found with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon and  locatorType: xpath
+05/28/2023 05:37:50 PM - LoginPage - INFO: Element not present with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon locatorType: xpath
+05/28/2023 05:37:50 PM - LoginPage - INFO: Error Dialog is not found... 
+05/28/2023 05:37:50 PM - LoginPage - INFO: Element not found with locator: username and  locatorType: id
+05/28/2023 05:37:50 PM - LoginPage - INFO: Cannot send data on the element with locator: username locatorType: id
+05/28/2023 05:37:50 PM - LoginPage - INFO: Element not found with locator: password and  locatorType: id
+05/28/2023 05:37:50 PM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+05/28/2023 05:37:50 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+05/28/2023 05:37:50 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: id
+05/28/2023 05:37:50 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:37:51 PM - Util - INFO: Wait :: '2' seconds for 
+05/28/2023 05:37:53 PM - LoginPage - INFO: Element not found with locator: Switch to Lightning Experience and  locatorType: link
+05/28/2023 05:37:53 PM - LoginPage - INFO: Element not present with locator: Switch to Lightning Experience locatorType: link
+05/28/2023 05:37:53 PM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+05/28/2023 05:37:53 PM - LoginPage - INFO: Element not appeared on the web page
+05/28/2023 05:37:53 PM - LoginPage - INFO: Element not found with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon and  locatorType: xpath
+05/28/2023 05:37:53 PM - LoginPage - INFO: Element not present with locator: /html/body/div[4]/div[2]/div/div[2]/div/div[1]/button/lightning-icon locatorType: xpath
+05/28/2023 05:37:53 PM - LoginPage - INFO: Error Dialog is not found... 
+05/28/2023 05:37:53 PM - LoginPage - ERROR: Failed to get page title
+05/28/2023 05:37:53 PM - Util - INFO: Wait :: '1' seconds for 
+05/28/2023 05:37:54 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside SS ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S1 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S2 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S3 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside Try ##################################################
+05/28/2023 05:37:54 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+05/28/2023 05:37:54 PM - LoginPage - INFO: Element not found with locator: uiImage and  locatorType: class
+05/28/2023 05:37:54 PM - LoginPage - INFO: Element not present with locator: uiImage locatorType: class
+05/28/2023 05:37:54 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside SS ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S1 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S2 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside S3 ######################################################
+05/28/2023 05:37:54 PM - TestStatus - INFO: Inside Try ##################################################
+05/28/2023 05:37:54 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+05/28/2023 05:37:54 PM - TestStatus - ERROR: test_validLogin  ### TEST FAILED

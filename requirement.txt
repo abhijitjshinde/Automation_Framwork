@@ -1,0 +1,6 @@
+selenium
+ddt
+pytest
+requests
+configparser
+
